@@ -6,12 +6,15 @@ Este es un proyecto de parctica para aprender el flujo de trabajo en github
 Estamos documentando los primeros pasos en el control de versiones
 
 ###Tecnologias utilizadas
-* ** Git**
-* ** Git-Hub**
-* ** Markdown**
+* **Git**
+* **Git-Hub**
+* **Markdown**
 
 ### Como usar el repositorio: 
 Url
 
 ### Autor 
 David A. Zambrano S.
+
+### Status
+Finalizado en la version 1.0
